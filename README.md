@@ -1,2 +1,11 @@
 # SunoikisisDC-Summer2022-Session9
 Materials for the SunoikisisDC 2021-2022 Course on Natural Language Processing (NLP) for Historical Maps (session 9)
+
+
+https://sunoikisisdc.github.io
+
+
+
+https://github.com/SunoikisisDC/SunoikisisDC-2021-2022/wiki/SunoikisisDC-Summer-2022-Session-9
+
+
