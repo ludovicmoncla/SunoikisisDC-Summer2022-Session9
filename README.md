@@ -19,7 +19,6 @@ git clone https://github.com/ludovicmoncla/SunoikisisDC-Summer2022-Session9.git
 
 #### Method 1
 
-https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
 
 * Create a new python environment called `sunoikisis-py39` with all dependencies using the `environment.yml` configuration file:
 
