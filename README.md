@@ -8,6 +8,8 @@ https://sunoikisisdc.github.io
 
 https://github.com/SunoikisisDC/SunoikisisDC-2021-2022/wiki/SunoikisisDC-Summer-2022-Session-9
 
+
+
 ## Set up a conda environment
 
 * Clone this github repository
@@ -15,6 +17,8 @@ https://github.com/SunoikisisDC/SunoikisisDC-2021-2022/wiki/SunoikisisDC-Summer-
 ```bash
 git clone https://github.com/ludovicmoncla/SunoikisisDC-Summer2022-Session9.git
 ```
+
+
 ### Configure the environment with all dependencies
 
 #### Method 1
@@ -51,3 +55,12 @@ conda activate sunoikisis-py39
 ```python
 pip install -r requirements.txt
 ```
+
+
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ludovicmoncla/SunoikisisDC-Summer2022-Session9/blob/main/Tutorial-geoparsing.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ludovicmoncla/SunoikisisDC-Summer2022-Session9/main?filepath=Tutorial-geoparsing.ipynb)
+
+
+
+
