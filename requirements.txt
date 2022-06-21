@@ -1,0 +1,5 @@
+lxml
+ipykernel
+spacy==3.3.1
+stanza==1.2.3
+perdido==0.1.18
