@@ -16,6 +16,16 @@ Thursday June 23, 2022, starting at 17:15 CEST (for 90 minutes).
 **Youtube link**: https://youtu.be/7NK2KyP2BYs
 
 
+
+## Outline
+    * Introduction - 15 min
+	* Discussion part 1 (assigned readings) - 15 min
+	* Exercise with Jupyter Notebook - 40 min
+	* Discussion part 2 (reflection on using notebook) - 15 min
+	* Wrap up - 5 min
+
+
+
 ## Set up a conda environment
 
 Follow the instructions bellow, if you want to run this tutorial from a local environment on your computer. 
