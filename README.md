@@ -26,11 +26,13 @@ Thursday June 23, 2022, starting at 17:15 CEST (for 90 minutes).
 
 
 
+You can run the notebook remotely using [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ludovicmoncla/SunoikisisDC-Summer2022-Session9/blob/main/Tutorial-geoparsing.ipynb) or  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ludovicmoncla/SunoikisisDC-Summer2022-Session9/main?filepath=Tutorial-geoparsing.ipynb)
+Otherwise, if you want to run this tutorial from a local environment on your computer, follow the instructions bellow. 
+
+
+
+
 ## Set up a conda environment
-
-Follow the instructions bellow, if you want to run this tutorial from a local environment on your computer. 
-Otherwise, you can also run the notebook remotely using [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ludovicmoncla/SunoikisisDC-Summer2022-Session9/blob/main/Tutorial-geoparsing.ipynb) or  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ludovicmoncla/SunoikisisDC-Summer2022-Session9/main?filepath=Tutorial-geoparsing.ipynb)
-
 
 
 ### Clone this github repository
